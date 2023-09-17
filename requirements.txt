@@ -1,0 +1,17 @@
+certifi==2023.7.22
+cffi==1.15.1
+charset-normalizer==3.2.0
+cryptography==41.0.3
+deprecation==2.1.0
+dhivehi-unicode==1.0.3
+idna==3.4
+lxml==4.9.3
+packaging==23.1
+pdfminer.six==20221105
+pdfplumber==0.10.2
+pikepdf==8.4.1
+Pillow==10.0.1
+pycparser==2.21
+pypdfium2==4.20.0
+requests==2.31.0
+urllib3==2.0.4
